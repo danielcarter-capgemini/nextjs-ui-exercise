@@ -2,7 +2,7 @@ Resources:
 
 https://unsplash.com/
 
-https://loremipsum.io/
+[Shakespeare Ipsum](https://ipsum-community.github.io/shakespeare/)
 
 ### Create this layout (use any landscape image you'd like):
 
